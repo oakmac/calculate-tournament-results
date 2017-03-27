@@ -67,7 +67,7 @@
       "start-time": "2016-02-28 1030",
       "scoreB": 8,
       "scoreA": 6,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team7"
     },
     "game35": {
@@ -78,7 +78,7 @@
       "start-time": "2016-02-28 1315",
       "scoreB": 9,
       "scoreA": 4,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team8"
     },
     "game24": {
@@ -89,7 +89,7 @@
       "start-time": "2016-02-28 1130",
       "scoreB": 6,
       "scoreA": 4,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team1"
     },
     "game41": {
@@ -100,7 +100,7 @@
       "start-time": "2016-02-28 1355",
       "scoreB": 4,
       "scoreA": 7,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team10"
     },
     "game15": {
@@ -111,7 +111,7 @@
       "start-time": "2016-02-28 1015",
       "scoreB": 5,
       "scoreA": 5,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team11"
     },
     "game80": {
@@ -133,7 +133,7 @@
       "start-time": "2016-02-28 0930",
       "scoreB": 10,
       "scoreA": 4,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team5"
     },
     "game14": {
@@ -144,7 +144,7 @@
       "start-time": "2016-02-28 1000",
       "scoreB": 9,
       "scoreA": 4,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team3"
     },
     "game10": {
@@ -155,7 +155,7 @@
       "start-time": "2016-02-28 0900",
       "scoreB": 7,
       "scoreA": 6,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team1"
     },
     "game22": {
@@ -166,7 +166,7 @@
       "start-time": "2016-02-28 1100",
       "scoreB": 7,
       "scoreA": 7,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team12"
     },
     "game30": {
@@ -177,7 +177,7 @@
       "start-time": "2016-02-28 1200",
       "scoreB": 9,
       "scoreA": 4,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team10"
     },
     "game32": {
@@ -188,7 +188,7 @@
       "start-time": "2016-02-28 1230",
       "scoreB": 8,
       "scoreA": 6,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team7"
     },
     "game43": {
@@ -199,7 +199,7 @@
       "start-time": "2016-02-28 1425",
       "scoreB": 5,
       "scoreA": 4,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team1"
     },
     "game33": {
@@ -210,7 +210,7 @@
       "start-time": "2016-02-28 1245",
       "scoreB": 6,
       "scoreA": 3,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team12"
     },
     "game44": {
@@ -221,7 +221,7 @@
       "start-time": "2016-02-28 1440",
       "scoreB": 4,
       "scoreA": 7,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team11"
     },
     "game42": {
@@ -232,7 +232,7 @@
       "start-time": "2016-02-28 1410",
       "scoreB": 9,
       "scoreA": 7,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team9"
     },
     "game105": {
@@ -242,7 +242,7 @@
       "teamB-id": "team4",
       "teamA-id": "team6",
       "scoreA": 8,
-      "status": "finished",
+      "status": "final",
       "scoreB": 5
     },
     "game108": {
@@ -251,7 +251,7 @@
       "group": "bracket-play",
       "teamA-id": "team3",
       "teamB-id": "team8",
-      "status": "finished",
+      "status": "final",
       "scoreA": 4,
       "scoreB": 7
     },
@@ -261,7 +261,7 @@
       "group": "bracket-play",
       "teamA-id": "team12",
       "teamB-id": "team1",
-      "status": "finished",
+      "status": "final",
       "scoreA": 9,
       "scoreB": 6
     },
@@ -284,7 +284,7 @@
       "start-time": "2016-02-28 1215",
       "scoreB": 7,
       "scoreA": 4,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team3"
     },
     "game21": {
@@ -295,7 +295,7 @@
       "start-time": "2016-02-28 1045",
       "scoreB": 4,
       "scoreA": 10,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team10"
     },
     "game23": {
@@ -306,7 +306,7 @@
       "start-time": "2016-02-28 1115",
       "scoreB": 6,
       "scoreA": 6,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team9"
     },
     "game11": {
@@ -317,7 +317,7 @@
       "start-time": "2016-02-28 0915",
       "scoreB": 8,
       "scoreA": 8,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team9"
     },
     "game102": {
@@ -326,7 +326,7 @@
       "group": "bracket-play",
       "teamA-id": "team10",
       "teamB-id": "team2",
-      "status": "finished",
+      "status": "final",
       "scoreA": 7,
       "scoreB": 8
     },
@@ -336,7 +336,7 @@
       "group": "bracket-play",
       "teamA-id": "team11",
       "teamB-id": "team4",
-      "status": "finished",
+      "status": "final",
       "scoreA": 2,
       "scoreB": 11
     },
@@ -346,7 +346,7 @@
       "group": "bracket-play",
       "teamA-id": "team6",
       "teamB-id": "team9",
-      "status": "finished",
+      "status": "final",
       "scoreB": 6,
       "scoreA": 10
     },
@@ -356,7 +356,7 @@
       "group": "bracket-play",
       "teamA-id": "team6",
       "teamB-id": "team7",
-      "status": "finished",
+      "status": "final",
       "scoreA": 7,
       "scoreB": 6
     },
@@ -368,7 +368,7 @@
       "start-time": "2016-02-28 1145",
       "scoreB": 5,
       "scoreA": 10,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team5"
     },
     "game98": {
@@ -390,7 +390,7 @@
       "start-time": "2016-02-28 1300",
       "scoreB": 6,
       "scoreA": 6,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team4"
     },
     "game40": {
@@ -401,7 +401,7 @@
       "start-time": "2016-02-28 1330",
       "scoreB": 4,
       "scoreA": 11,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team6"
     },
     "game104": {
@@ -411,7 +411,7 @@
       "teamB-id": "team7",
       "teamA-id": "team2",
       "scoreA": 6,
-      "status": "finished",
+      "status": "final",
       "scoreB": 9
     },
     "game13": {
@@ -422,7 +422,7 @@
       "start-time": "2016-02-28 0945",
       "scoreB": 3,
       "scoreA": 11,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team7"
     },
     "game99": {
@@ -443,7 +443,7 @@
       "teamB-id": "team5",
       "teamA-id": "team7",
       "scoreA": 10,
-      "status": "finished",
+      "status": "final",
       "scoreB": 5
     },
     "game45": {
@@ -454,7 +454,7 @@
       "start-time": "2016-02-28 1455",
       "scoreB": 6,
       "scoreA": 7,
-      "status": "finished",
+      "status": "final",
       "teamA-id": "team12"
     }
   }
