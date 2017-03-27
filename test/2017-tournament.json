@@ -1,0 +1,366 @@
+{
+  "title":"2017 Houston Indoor",
+  "teams":{
+    "team1":{
+      "name":"Purple Cobras",
+      "captain":"Chase Thomas"
+    },
+    "team2":{
+      "name":"Mathletes",
+      "captain":"Cat Belgarde "
+    },
+    "team3":{
+      "name":"Get Off My Lawn!",
+      "captain":"Matt Lyle"
+    },
+    "team4":{
+      "name":"Pizza Roll",
+      "captain":"Naomi Trang"
+    },
+    "team5":{
+      "name":"Undecided",
+      "captain":"Nathan Scott"
+    },
+    "team6":{
+      "name":"League City",
+      "captain":"Jeff Kitchens"
+    },
+    "team7":{
+      "name":"Ascension",
+      "captain":"Zach Anderson"
+    },
+    "team8":{
+      "name":"Skied Rice",
+      "captain":"Valerie Pinillos"
+    },
+    "team9": {
+      "name": "No Time for Hucks",
+      "captain": "Callie Barrett"
+    },
+    "team10": {
+      "name": "Bernie's Bandits",
+      "captain": "Bernie Guerra"
+    }
+  },
+  "games":{
+    "game600":{
+      "group":"bracket-play",
+      "teamB-id":"team7",
+      "name":"7th Place",
+      "start-time":"2017-03-25 1320",
+      "scoreB":11,
+      "scoreA":5,
+      "status":"final",
+      "teamA-id":"team1"
+    },
+    "game201":{
+      "group":"swiss-round-2",
+      "teamB-id":"team8",
+      "name":"Swiss Round 2, Game 2",
+      "swiss-round":2,
+      "start-time":"2017-03-25 0835",
+      "scoreB":5,
+      "scoreA":14,
+      "status":"final",
+      "teamA-id":"team3"
+    },
+    "game502":{
+      "group":"swiss-round-5",
+      "teamB-id":"team5",
+      "name":"Swiss Round 5, Game 3",
+      "swiss-round":5,
+      "start-time":"2017-03-25 1242",
+      "scoreB":12,
+      "scoreA":5,
+      "status":"final",
+      "teamA-id":"team1"
+    },
+    "game503":{
+      "group":"swiss-round-5",
+      "teamB-id":"team2",
+      "name":"Swiss Round 5, Game 4",
+      "swiss-round":5,
+      "start-time":"2017-03-25 1301",
+      "scoreB":7,
+      "scoreA":10,
+      "status":"final",
+      "teamA-id":"team3"
+    },
+    "game202":{
+      "group":"swiss-round-2",
+      "teamB-id":"team2",
+      "name":"Swiss Round 2, Game 3",
+      "swiss-round":2,
+      "start-time":"2017-03-25 0854",
+      "scoreB":11,
+      "scoreA":9,
+      "status":"final",
+      "teamA-id":"team6"
+    },
+    "game401":{
+      "group":"swiss-round-4",
+      "teamB-id":"team8",
+      "name":"Swiss Round 4, Game 2",
+      "swiss-round":4,
+      "start-time":"2017-03-25 1107",
+      "scoreB":15,
+      "scoreA":7,
+      "status":"final",
+      "teamA-id":"team1"
+    },
+    "game403":{
+      "group":"swiss-round-4",
+      "teamB-id":"team5",
+      "name":"Swiss Round 4, Game 4",
+      "swiss-round":4,
+      "start-time":"2017-03-25 1145",
+      "scoreB":7,
+      "scoreA":13,
+      "status":"final",
+      "teamA-id":"team3"
+    },
+    "game301":{
+      "group":"swiss-round-3",
+      "teamB-id":"team1",
+      "name":"Swiss Round 3, Game 2",
+      "swiss-round":3,
+      "start-time":"2017-03-25 0951",
+      "scoreB":5,
+      "scoreA":10,
+      "status":"final",
+      "teamA-id":"team6"
+    },
+    "game900":{
+      "pending-teamB":{
+        "winner-of":"game602"
+      },
+      "group":"bracket-play",
+      "pending-teamA":{
+        "winner-of":"game601"
+      },
+      "teamB-id":"team5",
+      "name":"Finals",
+      "start-time":"2017-03-25 1430",
+      "scoreB":6,
+      "scoreA":11,
+      "status":"final",
+      "teamA-id":"team3"
+    },
+    "game395":{
+      "group":"swiss-round-4",
+      "teamB-id":"team6",
+      "name":"Swiss Round 4, Game 1",
+      "swiss-round":4,
+      "start-time":"2017-03-25 1048",
+      "scoreB":2,
+      "scoreA":2,
+      "status":"aborted",
+      "teamA-id":"team7"
+    },
+    "game400":{
+      "group":"swiss-round-4",
+      "teamB-id":"team2",
+      "name":"Swiss Round 4, Game 1",
+      "swiss-round":4,
+      "start-time":"2017-03-25 1048",
+      "scoreB":10,
+      "scoreA":6,
+      "status":"final",
+      "teamA-id":"team7"
+    },
+    "game302":{
+      "group":"swiss-round-3",
+      "teamB-id":"team5",
+      "name":"Swiss Round 3, Game 3",
+      "swiss-round":3,
+      "start-time":"2017-03-25 1010",
+      "scoreB":10,
+      "scoreA":9,
+      "status":"final",
+      "teamA-id":"team7"
+    },
+    "game500":{
+      "group":"swiss-round-5",
+      "teamB-id":"team7",
+      "name":"Swiss Round 5, Game 1",
+      "swiss-round":5,
+      "start-time":"2017-03-25 1204",
+      "scoreB":7,
+      "scoreA":8,
+      "status":"final",
+      "teamA-id":"team6"
+    },
+    "game396":{
+      "group":"swiss-round-4",
+      "teamB-id":"team2",
+      "name":"Swiss Round 4, Game 3",
+      "swiss-round":4,
+      "start-time":"2017-03-25 1126",
+      "scoreB":2,
+      "scoreA":1,
+      "status":"aborted",
+      "teamA-id":"team6"
+    },
+    "game402":{
+      "group":"swiss-round-4",
+      "teamB-id":"team4",
+      "name":"Swiss Round 4, Game 3",
+      "swiss-round":4,
+      "start-time":"2017-03-25 1126",
+      "scoreB":9,
+      "scoreA":9,
+      "status":"final",
+      "teamA-id":"team6"
+    },
+    "game501":{
+      "group":"swiss-round-5",
+      "teamB-id":"team8",
+      "name":"Swiss Round 5, Game 2",
+      "swiss-round":5,
+      "start-time":"2017-03-25 1223",
+      "scoreB":9,
+      "scoreA":6,
+      "status":"final",
+      "teamA-id":"team4"
+    },
+    "game601":{
+      "group":"bracket-play",
+      "teamB-id":"team4",
+      "name":"Semi 1v4",
+      "start-time":"2017-03-25 1336",
+      "scoreB":4,
+      "scoreA":10,
+      "status":"final",
+      "teamA-id":"team3"
+    },
+    "game300":{
+      "group":"swiss-round-3",
+      "teamB-id":"team8",
+      "name":"Swiss Round 3, Game 1",
+      "swiss-round":3,
+      "start-time":"2017-03-25 0932",
+      "scoreB":8,
+      "scoreA":8,
+      "status":"final",
+      "teamA-id":"team2"
+    },
+    "game298":{
+      "group":"swiss-round-3",
+      "teamB-id":"team3",
+      "name":"Swiss Round 3, Game 4",
+      "swiss-round":3,
+      "start-time":"2017-03-25 1029",
+      "scoreB":1,
+      "scoreA":3,
+      "status":"aborted",
+      "teamA-id":"team7"
+    },
+    "game303":{
+      "group":"swiss-round-3",
+      "teamB-id":"team3",
+      "name":"Swiss Round 3, Game 4",
+      "swiss-round":3,
+      "start-time":"2017-03-25 1029",
+      "scoreB":10,
+      "scoreA":7,
+      "status":"final",
+      "teamA-id":"team4"
+    },
+    "game203":{
+      "group":"swiss-round-2",
+      "teamB-id":"team4",
+      "name":"Swiss Round 2, Game 4",
+      "swiss-round":2,
+      "start-time":"2017-03-25 0913",
+      "scoreB":8,
+      "scoreA":7,
+      "status":"final",
+      "teamA-id":"team5"
+    },
+    "game102":{
+      "group":"swiss-round-1",
+      "teamB-id":"team7",
+      "name":"Swiss Round 1, Game 3",
+      "swiss-round":1,
+      "start-time":"2017-03-25 0738",
+      "scoreB":5,
+      "scoreA":10,
+      "status":"final",
+      "teamA-id":"team3"
+    },
+    "game200":{
+      "group":"swiss-round-2",
+      "teamB-id":"team1",
+      "name":"Swiss Round 2, Game 1",
+      "swiss-round":2,
+      "start-time":"2017-03-25 0816",
+      "scoreB":5,
+      "scoreA":10,
+      "status":"final",
+      "teamA-id":"team7"
+    },
+    "game100":{
+      "group":"swiss-round-1",
+      "teamB-id":"team8",
+      "name":"Swiss Round 1, Game 1",
+      "swiss-round":1,
+      "start-time":"2017-03-25 0700",
+      "scoreB":10,
+      "scoreA":6,
+      "status":"final",
+      "teamA-id":"team6"
+    },
+    "game599":{
+      "group":"bracket-play",
+      "teamB-id":"team5",
+      "name":"Semi 2v3",
+      "start-time":"2017-03-25 1355",
+      "scoreB":0,
+      "scoreA":1,
+      "status":"aborted",
+      "teamA-id":"team4"
+    },
+    "game602":{
+      "group":"bracket-play",
+      "teamB-id":"team5",
+      "name":"Semi 2v3",
+      "start-time":"2017-03-25 1355",
+      "scoreB":8,
+      "scoreA":7,
+      "status":"final",
+      "teamA-id":"team8"
+    },
+    "game103":{
+      "group":"swiss-round-1",
+      "teamB-id":"team4",
+      "name":"Swiss Round 1, Game 4",
+      "swiss-round":1,
+      "start-time":"2017-03-25 0757",
+      "scoreB":13,
+      "scoreA":6,
+      "status":"final",
+      "teamA-id":"team2"
+    },
+    "game603":{
+      "group":"bracket-play",
+      "teamB-id":"team2",
+      "name":"5th Place",
+      "start-time":"2017-03-25 1414",
+      "scoreB":5,
+      "scoreA":7,
+      "status":"final",
+      "teamA-id":"team6"
+    },
+    "game101":{
+      "group":"swiss-round-1",
+      "teamB-id":"team5",
+      "name":"Swiss Round 1, Game 2",
+      "swiss-round":1,
+      "start-time":"2017-03-25 0719",
+      "scoreB":12,
+      "scoreA":3,
+      "status":"final",
+      "teamA-id":"team1"
+    }
+  }
+}

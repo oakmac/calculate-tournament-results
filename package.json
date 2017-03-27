@@ -1,0 +1,22 @@
+{
+  "author": "Chris Oakman <chris@oakmac.com> (http://chrisoakman.com/)",
+  "name": "calculate-tournament-results",
+  "description": "A programming exercise to learn higher-order functions.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oakmac/calculate-tournament-results"
+  },
+  "main": "main.js",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "assert": "1.4.1",
+    "mocha": "3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "ISC"
+}
