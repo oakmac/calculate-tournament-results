@@ -105,3 +105,7 @@ round. The formula for calculating victory points is as follows:
 - then add (or subtract) point diff
 
 [Swiss format]:https://en.wikipedia.org/wiki/Swiss-system_tournament
+
+## License
+
+[ISC License](LICENSE.md)
